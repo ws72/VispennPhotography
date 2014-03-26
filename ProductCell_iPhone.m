@@ -2,7 +2,7 @@
 //  ProductCell_iPhone.m
 //  TemplateTwoOnlineTennisStore
 //
-//  Created by Konstantin Pinchuk on 14/05/13.
+//  Created by Song Wang on 14/05/13.
 //  Copyright (c) 2013 Konstantin Pinchuk. All rights reserved.
 //
 

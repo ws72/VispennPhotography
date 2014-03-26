@@ -2,7 +2,7 @@
 //  NewsDetailVC.h
 //  VispennPhotography
 //
-//  Created by penn on 9/06/13.
+//  Created by Song Wang on 9/06/13.
 //  Copyright (c) 2013 penn. All rights reserved.
 //
 

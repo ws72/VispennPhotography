@@ -1,7 +1,7 @@
 //
 //  main.m
 //
-//  Created by Konstantin Pinchuk on 7/05/13.
+//  Created by Song Wang on 7/05/13.
 //  Copyright (c) 2013 Konstantin Pinchuk. All rights reserved.
 //
 
